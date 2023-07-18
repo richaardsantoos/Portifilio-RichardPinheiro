@@ -896,3 +896,7 @@ footer .footer_comercial {
     color: white;
     border: none;
 }
+
+.section-div a:hover{
+    color: red;
+}
